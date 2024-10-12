@@ -1,3 +1,9 @@
+ev3-systemd (6.0.0+fl0wey1) bullseye; urgency=medium
+
+  * Various cleanups
+
+ -- Flowey <stepanmasirov@gmail.com>  Tue, 08 Oct 2024 14:15:02 +0000
+
 ev3-systemd (6.0.0) buster; urgency=medium
 
   [ Jakub Vaněk ]

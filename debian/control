@@ -5,8 +5,8 @@ Build-Depends: debhelper (>= 12~)
 Standards-Version: 4.3.0
 Section: embedded
 Homepage: http://www.ev3dev.org
-Vcs-Git: https://github.com/ev3dev/ev3-systemd.git
-Vcs-Browser: https://github.com/ev3dev/ev3-systemd
+Vcs-Git: https://github.com/StepanTheFlowey/ev3-systemd.git
+Vcs-Browser: https://github.com/StepanTheFlowey/ev3-systemd
 
 Package: ev3-systemd
 Architecture: armel

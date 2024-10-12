@@ -1,4 +1,4 @@
-#!/bin/dash
+#!/bin/sh
 
 # Line discipline helper for systemd
 #

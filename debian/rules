@@ -21,4 +21,3 @@ override_dh_installsystemd:
 	dh_installsystemd --no-restart-after-upgrade --no-restart-on-upgrade --no-start --name=ev3-usb@
 	dh_installsystemd --no-restart-after-upgrade --no-restart-on-upgrade --no-start --name=ev3-bluetooth
 	dh_installsystemd --name=ev3-uart@
-	dh_installsystemd --name=ev3-leds
