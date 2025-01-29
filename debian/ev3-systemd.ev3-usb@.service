@@ -1,12 +1,7 @@
-# This file is part of the ev3-systemd package
-
 [Unit]
 Description=USB Gadget for LEGO MINDSTORMS EV3 hardware
 ConditionPathIsDirectory=/sys/kernel/config/usb_gadget
 Before=network.target
-BindsTo=sys-subsystem-udc-devices-%i.device
-# this is the old service name
-Conflicts=ev3-usb.service
 
 [Service]
 Type=oneshot

@@ -1,3 +1,12 @@
+ev3-systemd (6.0.0+fl0wey2) bullseye; urgency=medium
+
+  * Non-maintainer upload
+  * Tweak ev3-bluetooth.service
+  * Remove modules-load entry
+  * Fix ev3-usb.service
+
+ -- Flowey <stepanmasirov@gmail.com>  Wed, 29 Jan 2025 17:32:48 +0000
+
 ev3-systemd (6.0.0+fl0wey1) bullseye; urgency=medium
 
   * Non-maintainer upload

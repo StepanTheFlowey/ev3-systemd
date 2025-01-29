@@ -1,5 +1,3 @@
-# This file is part of the ev3-systemd package
-
 # LEGO MINDSTORMS EV3 built-in bluetooth
 KERNEL=="legoev3-bluetooth", ACTION=="add", TAG+="systemd", \
     ENV{SYSTEMD_WANTS}="ev3-bluetooth.service"
